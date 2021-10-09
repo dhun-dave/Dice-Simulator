@@ -1,0 +1,9 @@
+Open the Terminal Window and use this command to install the essential files needed for the program to work:
+
+pip install random2
+
+Made by Dhun Dave
+GitHub: dhun-dave
+LinkedIn: Dhun Dave
+Twitter: @dhun__
+Instagram: @the.dhun
